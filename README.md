@@ -41,7 +41,7 @@ This project implements a basic E-Commerce order processing system using multipl
 ---
 
 ## 📸 Output
-![Output](output.png)
+![Output](output.jpeg)
 
 ---
 
