@@ -83,9 +83,3 @@ gcc main.c -o main
 
 ## Author
 Mansi Dalbhanjan
-
-
-
-Your Name
-
-Mansi
