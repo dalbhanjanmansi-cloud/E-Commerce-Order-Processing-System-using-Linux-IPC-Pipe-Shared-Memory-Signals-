@@ -45,6 +45,14 @@ This project implements a basic E-Commerce order processing system using multipl
 
 ---
 
+## 🏗️ Architecture Diagram
+
+![Architecture](architecture.png)
+
+
+---
+
+
 ## Technologies Used
 
 * C Programming
